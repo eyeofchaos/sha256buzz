@@ -4,9 +4,6 @@
 # Released under the MIT license - https://opensource.org/licenses/MIT
 #
 
-#! /usr/bin/env python
-# -*- coding: UTF-8 -*-
-
 import os
 import sys
 import hashlib
